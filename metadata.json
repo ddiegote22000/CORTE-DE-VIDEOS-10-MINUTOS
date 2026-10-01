@@ -1,0 +1,6 @@
+{
+  "name": "CorteDiez — Divisor de Video en Fragmentos de 10 Minutos",
+  "description": "Estudio de segmentación de video de alta precisión para dividir grabaciones largas en fragmentos exactos de 10 minutos con vista previa, miniaturas por bloque y exportación directa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
